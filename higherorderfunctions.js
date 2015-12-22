@@ -1,5 +1,11 @@
+// corresponding video for the code
+// https://www.youtube.com/watch?v=BMUiFMZr7vk
+
 // functions are values in javascript
+
+
 // they are good for composition
+
 
 // functions allow us to compose
 // which leads to code reuse

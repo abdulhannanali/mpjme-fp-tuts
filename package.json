@@ -1,0 +1,22 @@
+{
+  "name": "mpjme-fp-tuts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulhannanali/mpjme-fp-tuts.git"
+  },
+  "author": "Hannan Ali (abdulhannanali@outlook.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdulhannanali/mpjme-fp-tuts/issues"
+  },
+  "homepage": "https://github.com/abdulhannanali/mpjme-fp-tuts#readme",
+  "dependencies": {
+    "request": "^2.67.0"
+  }
+}

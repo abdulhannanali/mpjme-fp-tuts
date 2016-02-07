@@ -1,4 +1,5 @@
 // Currying in JavaScript
+// youtube video link: https://www.youtube.com/watch?v=iZLP4qOwY8I&index=6&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
 // 
 // Idea behind currying is my function can run through the program and gradually
 // receive the arguments it needs

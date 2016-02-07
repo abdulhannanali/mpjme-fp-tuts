@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/abdulhannanali/mpjme-fp-tuts#readme",
   "dependencies": {
+    "lodash": "^4.2.1",
     "request": "^2.67.0"
   }
 }
